@@ -1,7 +1,7 @@
 #include <stdio.h>
-string a;
+int a;
 
 printf("Hello World!");
-scanf ("%d",a);
+scanf ("%d",%a);
 
 return 0;
