@@ -5,3 +5,5 @@ printf("Hello World!");
 scanf ("%d",%a);
 
 return 0;
+
+cek main
