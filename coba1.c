@@ -2,6 +2,6 @@
 string a;
 
 printf("Hello World!");
-scanf (a);
+scanf ("%d",a);
 
 return 0;
